@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm **Aleyna Alangil**, a Blockchain Developer and a passionate coder whose making developing on Solana.
+
+And I am Computer Science Engineering student at Yeditepe University.
+
+- 🚀 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleyna-alangil/), [Gmail](mailto: aleynaalangil@gmail.com)
+- 🔭 I’m currently working on a newsletter app on Solana Blockchain with Rust 🦀.
+- 😄 Pronouns: She/Her
+
 <!--
 **aleynaalangil/AleynaAlangil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
