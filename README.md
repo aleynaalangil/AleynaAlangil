@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm **Aleyna Alangil**, a Blockchain Developer and a passionate coder whose making developing on Solana.
+I'm **Aleyna Alangil**, a passionate Blockchain Developer whose making developing Solana projects.
 
-And I am Computer Science Engineering student at Yeditepe University.
+And I am a Computer Science Engineering student at Yeditepe University 🏫.
 
 - 🚀 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleyna-alangil/), [Gmail](mailto:aleynaalangil@gmail.com)
-- 🔭 I’m currently working on a newsletter app on Solana Blockchain with Rust 🦀.
+- 🔭 I’m currently working on a newsletter app on ☀️ Solana Blockchain with Rust 🦀.
 - 😄 Pronouns: She/Her
 
 <!--
