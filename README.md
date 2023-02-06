@@ -5,7 +5,7 @@ I'm **Aleyna Alangil**, a passionate Blockchain Developer whose making developin
 And I am a Computer Science Engineering student at Yeditepe University 🏫.
 
 - 🚀 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleyna-alangil/), [Gmail](mailto:aleynaalangil@gmail.com)
-- 🔭 I’m currently working on a newsletter app on ☀️ Solana Blockchain with Rust 🦀.
+- 🔭 I’m currently working on a decentralized newsletter app on ☀️ Solana Blockchain with Rust 🦀.
 - 😄 Pronouns: She/Her
 
 <!--
